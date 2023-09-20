@@ -5,7 +5,9 @@
 Player can attack with mouse click. Longer players hold the mouse button down, further the cannon ball goes.
 
 # Screenshots
-
+Waiting for Player
 ![Waiting for Player](https://github.com/denizkorkmaz52/2D-Multiplayer-Game/blob/main/Waiting%20for%20player.PNG)
+
+Initial Game Scene
 ![Initial Game Scene](https://github.com/denizkorkmaz52/2D-Multiplayer-Game/blob/main/Initial%20Scene.PNG)
 
